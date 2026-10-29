@@ -2,7 +2,9 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=120&lines=Hello%2C+World!;I'm+Sevi;Aspiring+Software+Engineer;Terminal+%26+Keyboard+Enthusiast;Building.+Learning.+Improving.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=120&lines=sevi%40ubuntu%3A~%24+whoami;I'm+Sevi;Aspiring+Software+Engineer;Terminal+%26+Keyboard+Enthusiast;Building.+Learning.+Improving.)](https://git.io/typing-svg)
+
 </p>
 
 ## `$ whoami`
