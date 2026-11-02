@@ -62,11 +62,7 @@ I enjoy a keyboard-driven workflow and love customizing my development environme
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevi-devx&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevi-devx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sevi-devx&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Contribution Streak" />
 </p>
 
 ---
