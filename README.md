@@ -11,7 +11,7 @@
 
 I'm **Sevi**, an aspiring software engineer and Computer Science student passionate about building software, solving problems, and understanding how things work behind the scenes.
 
-I enjoy spending time in the terminal, navigating with my keyboard, and getting things done without reaching for the mouse. Give me Alacritty, Neovim, and a keyboard, and I'm happy. 😆
+I enjoy spending time in the terminal, navigating with my keyboard, and getting things done without reaching for the mouse. Give me Alacritty, Neovim, and a keyboard, and I'm happy.
 
 - 🌱 Currently learning JavaScript, Python, SQL, and Data Structures & Algorithms.
 - ⚙️ Interested in backend development, REST APIs, databases, and software architecture.
@@ -48,7 +48,7 @@ I enjoy spending time in the terminal, navigating with my keyboard, and getting 
 
 ## ⌨️ My Setup
 
-> Why use the mouse when the keyboard can do it? 😎
+> Why use the mouse when the keyboard can do it?
 
 - **OS:** Ubuntu Linux
 - **Terminal:** Alacritty
@@ -72,5 +72,5 @@ I enjoy a keyboard-driven workflow and love customizing my development environme
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! Keep coding and stay curious. 🐤
+  Thanks for visiting my profile! Keep coding and stay curious.
 </p>
